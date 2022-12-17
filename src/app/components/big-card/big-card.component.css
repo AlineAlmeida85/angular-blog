@@ -3,7 +3,7 @@
   margin-right: 10px;
 
   width: 400px;
-  height: 400px;
+  height: 250px;
 
   display: flex;
   flex-direction: column;
@@ -16,12 +16,13 @@
   font-size: 20px;
 }
 
+.big-card_subTitle > h2 {
+  margin-top: 15px;
+  font-size: 17px;
+}
+
 .big-card_description > p{
   margin-top: 10px;
   color: gray;
-}
-
-.big-card_photo > img{
-  width: 100%;
-  min-width: 400px;
+  font-size: 14px;
 }
