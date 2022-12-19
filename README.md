@@ -1,27 +1,92 @@
 # Angular Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+## 🏁 Tópicos
 
-## Development server
+  * 👉 [Título](#📌-título)
+  * 👉 [Descrição](#✒️-descrição)
+  * 👉 [Status](#⏱️-status)
+  * 👉 [Funcionalidades](#🔨-funcionalidades-🛠️)
+  * 👉 [Pré-requisitos](#📋-pré-requisitos)
+  * 👉 [Tecnologias utilizadas](#⚙️-tecnologias-utilizadas)
+  * 👉 [Autor](#🏆-autor)
+  * 👉 [Licença](#🙏-licença-🔖) 
+  * 👉 [Conclusão](#📚-conclusão)
+ 
+ 
+___
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📌 Título
 
-## Code scaffolding
+#### Angular Blog
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+___
+## ✒️ Descrição
 
-## Build
+#### Criando um Blog com Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+___
+## ⏱️ Status
 
-## Running unit tests
+>  🚀 Projeto Concluído com Sucesso!!! 👌 🚧
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+___
+## 🔨 Funcionalidades 🛠️
 
-## Running end-to-end tests
+- `Criado um blog com Angular` ✔️
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+___
+## 📋 Pré-requisitos 
 
-## Further help
+## Servidor de desenvolvimento
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+___
+## ⚙️ Tecnologias utilizadas
+
+<div align="center">
+
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" width=80><br><h4>Angular</h4>](https://angular.io/) | 
+| :---: |
+
+</div>
+
+___
+## 🏆 Autor 
+<div align="center">
+  <a href="https://github.com/AlineAlmeida85">
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99259131?v=4" width="115px;" alt="Aline Almeida"/><br/>
+    <sub>
+      <b>Aline Almeida</b>
+    </sub>
+  </a> 
+  <a href="https://github.com/AlineAlmeida85" title="Aline Almeida"></a>
+</div>
+
+___
+## Licença 🔖
+
+#### Não Possui
+
+____
+Feito com ❤️ por [Aline Almeida](https://github.com/AlineAlmeida85) 👋🏽 Entre em contato! 😊
+
+[![Linkedin Badge](https://img.shields.io/badge/-Aline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-melissa-andrade-de-almeida-25a78224/)](https://www.linkedin.com/in/aline-melissa-andrade-de-almeida-25a78224/) 
+[![Gmail Badge](https://img.shields.io/badge/-aasouza20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aasouza20@gmail.com)](mailto:aasouza20@gmail.com)
+
+##### Espero que te agrade! 🙏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
