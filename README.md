@@ -27,25 +27,26 @@ ___
 ___
 ## ✒️ Descrição
 
-#### Criando um Blog com Angular
+#### Criando um Blog com Angular, porém adaptei o projeto e criei um portfólio pessoal e simples.
 
 ___
 ## ⏱️ Status
 
->  🚀 Projeto Concluído com Sucesso!!! 👌 🚧
+####  🚀 Projeto Concluído com Sucesso!!! 👌 🚧
 
 ___
 ## 🔨 Funcionalidades 🛠️
 
-- `Criado um blog com Angular` ✔️
+#### `Criado um blog com Angular` ✔️
 
 ___
 ## 📋 Pré-requisitos 
 
-## Servidor de desenvolvimento
+#### Servidor de desenvolvimento
 
-Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+#### Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
+#### Ou você pode ver clicando [aqui](portfolio-aline-angular.netlify.app)
 ___
 ## ⚙️ Tecnologias utilizadas
 
